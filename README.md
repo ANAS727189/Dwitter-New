@@ -4,14 +4,25 @@
 
 **A blockchain-powered social media platform built for the decentralized web**
 
-[![Built with React](https://img.shields.io/badge/Built%20with-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Solidity](https://img.shields.io/badge/Smart%20Contracts-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/)
+<p align="center">
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/Built%20with-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://soliditylang.org/">
+    <img src="https://img.shields.io/badge/Smart%20Contracts-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://ethereum.org/">
+    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  </a>
+</p>
 
 [🌐 Live Demo](#deployment) | [📖 Documentation](#documentation) | [🚀 Get Started](#quick-start)
 
 </div>
+
 
 ---
 
@@ -399,7 +410,3 @@ If this project helped you, please consider:
 - 💡 **Suggesting** new features
 - 🤝 **Contributing** code improvements
 
-<div align="center">
-**Built and designed by me**
-[⬆ Back to Top](#-dwitter---decentralized-twitter)
-</div>
