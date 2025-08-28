@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Dwitter Logo](./public/dwitter-logo.png)
-
 **A blockchain-powered social media platform built for the decentralized web**
 
 [![Built with React](https://img.shields.io/badge/Built%20with-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
@@ -392,15 +390,6 @@ npx hardhat test
 - Wait for profile transaction to confirm
 - Refresh the page
 
----
-
-## 🤝 Community & Support
-
-### 📞 Getting Help
-
-- **GitHub Issues**: [Report bugs or request features](https://github.com/ANAS727189/Solidity_Learning/issues)
-- **Discussions**: [Join community discussions](https://github.com/ANAS727189/Solidity_Learning/discussions)
-- **Email**: [Contact the developer](mailto:your-email@example.com)
 
 ### 🌟 Show Your Support
 
@@ -410,94 +399,7 @@ If this project helped you, please consider:
 - 💡 **Suggesting** new features
 - 🤝 **Contributing** code improvements
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **OpenZeppelin** - Secure smart contract patterns
-- **React Team** - Amazing frontend framework
-- **Vite** - Lightning-fast build tool
-- **Tailwind CSS** - Utility-first CSS framework
-- **Web3 Community** - Inspiration and support
-- **Ethereum Foundation** - Blockchain infrastructure
-
----
-
-## 🗺️ Roadmap
-
-### 🔜 Coming Soon
-
-- [ ] **Reply System** - Reply to tweets functionality
-- [ ] **Retweet Feature** - Share tweets with comments
-- [ ] **Follow System** - Follow/unfollow users
-- [ ] **Direct Messages** - Private messaging
-- [ ] **Media Uploads** - Images and videos via IPFS
-- [ ] **Multi-chain Support** - Deploy on multiple blockchains
-- [ ] **Mobile App** - React Native implementation
-- [ ] **Dark/Light Themes** - Theme switching
-- [ ] **Advanced Search** - Search tweets and users
-- [ ] **Analytics Dashboard** - User engagement metrics
-
-### 🎯 Long-term Vision
-
-- **DAO Governance** - Community-driven development
-- **Token Economics** - Native token for platform governance
-- **NFT Integration** - NFT profile pictures and badges
-- **Layer 2 Support** - Reduced gas fees
-- **Decentralized Storage** - IPFS/Arweave integration
-- **Cross-chain Bridges** - Multi-blockchain compatibility
-
----
-
 <div align="center">
-
-**Built with ❤️ for the decentralized web**
-
+**Built and designed by me**
 [⬆ Back to Top](#-dwitter---decentralized-twitter)
-
 </div>
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
