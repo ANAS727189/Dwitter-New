@@ -4,7 +4,7 @@
 
 **A blockchain-powered social media platform built for the decentralized web**
 
-<p align="center">
+<p align="center space-y-2">
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/Built%20with-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   </a>
